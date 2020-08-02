@@ -1,0 +1,23 @@
+.baseballForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.index {
+  display: flex;
+}
+
+.index1,
+.index2,
+.index3,
+.index4 {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin-bottom: 100px;
+  font-size: 50px;
+  text-align: center;
+  padding: 20px auto;
+}
